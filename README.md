@@ -1,6 +1,6 @@
 ## Welcome to Jason's FOSS 2020 Profile
 
-![me](ME.jpg)
+![me](ME.jpg | width=100)
 
 I joined the iEco Lab in January 2020 to work on the Caribbean Macrosystems project. Specifically, I am using a database of species occurrences on the islands of the Caribbean Bioregion to understand how anthropogenic movement of species influences the relationships predicted by island biogeography theory, species coexistence, and patterns of beta diversity.
 
