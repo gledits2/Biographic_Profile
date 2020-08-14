@@ -47,10 +47,10 @@ B.S. Pennsylvania State University - 2009
 
 ### Past Research
 **Hawaii VINE Project** 
-  - Studied avian community ecology and evolution as well as the Seed Dispersal Networks on the Hawaiian island of Oahu.
+  - Studied avian ecology and evolution as well as the seed dispersal networks on the Hawaiian island of Oahu.
 
 **Impacts of Exotic Shrubs on Avian Ecology** 
-  - Studied the impacts of shrub homeysuckles (_Lonicera_ spp.) on bird diversity patterns and nesting ecology.
+  - Studied the impacts of shrub honeysuckles (_Lonicera_ spp.) on bird diversity patterns and nesting ecology.
 
 **Using N15 Isotope for Seed Dispersal Research** 
   - Used the nitrogen 15 isotope to track the dispersal of seeds in various systems
