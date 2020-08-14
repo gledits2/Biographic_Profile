@@ -21,7 +21,7 @@ Ph.D. University of Illinois at Urbana-Champaign - 2019
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Natural Resources and Environmental Science</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Natural Resources and Environmental Science
 
 
 
@@ -35,7 +35,7 @@ M.S. Pennsylvania State University - 2012
 
 
 
-B.S. Pennsylvania State University - 2009 </br>
+B.S. Pennsylvania State University - 2009
 
 
 
