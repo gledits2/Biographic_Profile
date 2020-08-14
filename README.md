@@ -1,5 +1,3 @@
-## Jason M. Gleditsch
-
 <p align="center">
   <img src="ME_small.jpg">
 </p>
