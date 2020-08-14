@@ -54,3 +54,17 @@ B.S. Pennsylvania State University - 2009
 
 **Using N15 Isotope for Seed Dispersal Research** 
   - Used the nitrogen 15 isotope to track the dispersal of seeds in various systems
+
+
+
+
+
+
+### Highlight Publications
+Gleditsch, JM and Sperry, JH (2019) Rapid morphological change of non-native frugivores on the Hawaiian island of O’ahu. Evolution, 73: 1456-1465. [doi:10.1111/evo.13744](https://onlinelibrary.wiley.com/doi/full/10.1111/evo.13744)
+
+
+Vizentin-Bugoni, J., C.E. Tarwater, J.T. Foster, D.R. Drake, J.M. Gleditsch, A.M. Hruska, J.P. Kelley, and J.H. Sperry (2019) Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawaiʻi. Science 364(6435): 78-82. [doi:10.1126/science.aau8751](https://science.sciencemag.org/content/364/6435/78.abstract)
+
+
+Gleditsch JM and Carlo TA (2011) Fruit quantity of invasive shrubs predicts the abundance of common native avian frugivores in central Pennsylvania. Diversity and Distributions 17:244-253. [doi:10.1111/j.1472-4642.2010.00733.x](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1472-4642.2010.00733.x)
