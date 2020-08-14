@@ -9,8 +9,10 @@ I joined the iEco Lab at Temple University (Pennsylvania, USA) in January 2020 t
 Broadly I am interested in evolutionary and community ecology. I use species introductions to answer questions about how species and communities respond to anthropogenic disturbance and changes in their environment. In addition, I am interested in understanding how species introductions alter community assembly, species interactions, and patterns of diversity.
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Education
@@ -41,8 +43,10 @@ B.S. Pennsylvania State University - 2009
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- General Biology with a minor in Chemistry
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Past Research
@@ -56,8 +60,10 @@ B.S. Pennsylvania State University - 2009
   - Used the nitrogen 15 isotope to track the dispersal of seeds in various systems
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ### Highlighted Publications
@@ -68,6 +74,15 @@ Vizentin-Bugoni, J, Tarwater, CE, Foster, JT, Drake, DR, **Gleditsch, JM**, Hrus
 
 
 Carlo TA, García D, Martínez D, **Gleditsch, JM**, Morales JM (2013) Where do seeds go when they go far? Integrating distance and directionality of avian seed dispersal in heterogeneous landscapes. Ecology 94: 301-307. [doi:10.1890/12-0913.1](https://doi.org/10.1890/12-0913.1)
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 
 **Gleditsch, JM** and Carlo, TA (2011) Fruit quantity of invasive shrubs predicts the abundance of common native avian frugivores in central Pennsylvania. Diversity and Distributions 17:244-253. [doi:10.1111/j.1472-4642.2010.00733.x](https://doi.org/10.1111/j.1472-4642.2010.00733.x)
