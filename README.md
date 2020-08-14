@@ -76,13 +76,14 @@ Vizentin-Bugoni, J, Tarwater, CE, Foster, JT, Drake, DR, **Gleditsch, JM**, Hrus
 Carlo TA, García D, Martínez D, **Gleditsch, JM**, Morales JM (2013) Where do seeds go when they go far? Integrating distance and directionality of avian seed dispersal in heterogeneous landscapes. Ecology 94: 301-307. [doi:10.1890/12-0913.1](https://doi.org/10.1890/12-0913.1)
 
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
 **Gleditsch, JM** and Carlo, TA (2011) Fruit quantity of invasive shrubs predicts the abundance of common native avian frugivores in central Pennsylvania. Diversity and Distributions 17:244-253. [doi:10.1111/j.1472-4642.2010.00733.x](https://doi.org/10.1111/j.1472-4642.2010.00733.x)
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+
