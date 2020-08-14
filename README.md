@@ -11,16 +11,40 @@ I joined the iEco Lab at Temple University (Pennsylvania, USA) in January 2020 t
 Broadly I am interested in evolutionary and community ecology. I use species introductions to answer questions about how species and communities respond to anthropogenic disturbance and changes in their environment. In addition, I am interested in understanding how species introductions alter community assembly, species interactions, and patterns of diversity.
 
 
+
+
+
+
 ### Education
-<p>Ph.D. University of Illinois at Urbana-Champaign; Urbana, IL, USA - 2019</br>
+Ph.D. University of Illinois at Urbana-Champaign - 2019
+
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Natural Resources and Environmental Science</br>
-</br>
-M.S. Pennsylvania State University; University Park, PA - 2012 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ecology</br>
-</br>
-B.S. Pennsylvania State University; University Park, PA - 2009 </br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- General Biology with a minor in Chemistry</br>
-</p>
+
+
+
+
+M.S. Pennsylvania State University - 2012
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Ecology
+
+
+
+B.S. Pennsylvania State University - 2009 </br>
+
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- General Biology with a minor in Chemistry
+
+
+
+
 
 
 ### Past Research
