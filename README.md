@@ -67,6 +67,9 @@ B.S. Pennsylvania State University - 2009
 
 
 ### Highlighted Publications
+**Gleditsch, JM** and Sperry, JH (*in press*) Ecomorphological relationships and invasion history of non-native terrestrial bird species on O‘ahu, Hawai‘i suggests ecological fitting during community assembly. Ecology and Evolution
+
+
 **Gleditsch, JM** and Sperry, JH (2019) Rapid morphological change of non-native frugivores on the Hawaiian island of O’ahu. Evolution 73(7): 1456-1465. [doi:10.1111/evo.13744](https://doi.org/10.1111/evo.13744)
 
 
