@@ -67,19 +67,22 @@ B.S. Pennsylvania State University - 2009
 
 
 ### Highlighted Publications
-**Gleditsch, JM** and Sperry, JH (*in press*) Ecomorphological relationships and invasion history of non-native terrestrial bird species on O‘ahu, Hawai‘i suggests ecological fitting during community assembly. Ecology and Evolution
+Vizentin-Bugoni, J, Sperry, JH, Kelley, JP, **Gleditsch, JM**, Foster, JT, Drake, DR, Hruska, AM, Wilcox, R.C, and Tarwater, CE (2021) Ecological correlates of species’ roles in highly invaded seed dispersal networks. PNAS, 118(4): 78-82. [doi:10.1073/pnas.2009532118](https://doi.org/10.1073/pnas.2009532118)
 
 
-**Gleditsch, JM** and Sperry, JH (2019) Rapid morphological change of non-native frugivores on the Hawaiian island of O’ahu. Evolution 73(7): 1456-1465. [doi:10.1111/evo.13744](https://doi.org/10.1111/evo.13744)
+**Gleditsch, JM** and Sperry, JH (2020) Ecomorphological relationships and invasion history of non-native terrestrial bird species on O‘ahu, Hawai‘i suggests ecological fitting during community assembly. Ecology and Evolution, 10:12157–12169. [doi:10.1002/ece3.6843](https://doi.org/10.1002/ece3.6843)
 
 
-Vizentin-Bugoni, J, Tarwater, CE, Foster, JT, Drake, DR, **Gleditsch, JM**, Hruska, AM, Kelley, JP, and Sperry, JH (2019) Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawaiʻi. Science 364(6435): 78-82. [doi:10.1126/science.aau8751](https://doi.org/10.1126/science.aau8751)
+**Gleditsch, JM** and Sperry, JH (2019) Rapid morphological change of non-native frugivores on the Hawaiian island of O’ahu. Evolution, 73(7): 1456-1465. [doi:10.1111/evo.13744](https://doi.org/10.1111/evo.13744)
 
 
-Carlo TA, García D, Martínez D, **Gleditsch, JM**, Morales JM (2013) Where do seeds go when they go far? Integrating distance and directionality of avian seed dispersal in heterogeneous landscapes. Ecology 94: 301-307. [doi:10.1890/12-0913.1](https://doi.org/10.1890/12-0913.1)
+Vizentin-Bugoni, J, Tarwater, CE, Foster, JT, Drake, DR, **Gleditsch, JM**, Hruska, AM, Kelley, JP, and Sperry, JH (2019) Structure, spatial dynamics, and stability of novel seed dispersal mutualistic networks in Hawaiʻi. Science, 364(6435): 78-82. [doi:10.1126/science.aau8751](https://doi.org/10.1126/science.aau8751)
 
 
-**Gleditsch, JM** and Carlo, TA (2011) Fruit quantity of invasive shrubs predicts the abundance of common native avian frugivores in central Pennsylvania. Diversity and Distributions 17:244-253. [doi:10.1111/j.1472-4642.2010.00733.x](https://doi.org/10.1111/j.1472-4642.2010.00733.x)
+Carlo TA, García D, Martínez D, **Gleditsch, JM**, Morales JM (2013) Where do seeds go when they go far? Integrating distance and directionality of avian seed dispersal in heterogeneous landscapes. Ecology, 94: 301-307. [doi:10.1890/12-0913.1](https://doi.org/10.1890/12-0913.1)
+
+
+**Gleditsch, JM** and Carlo, TA (2011) Fruit quantity of invasive shrubs predicts the abundance of common native avian frugivores in central Pennsylvania. Diversity and Distributions, 17:244-253. [doi:10.1111/j.1472-4642.2010.00733.x](https://doi.org/10.1111/j.1472-4642.2010.00733.x)
 
 
 
