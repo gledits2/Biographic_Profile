@@ -67,7 +67,11 @@ B.S. Pennsylvania State University - 2009
 
 
 ### Highlighted Publications
-Vizentin-Bugoni, J, Sperry, JH, Kelley, JP, **Gleditsch, JM**, Foster, JT, Drake, DR, Hruska, AM, Wilcox, R.C, and Tarwater, CE (2021) Ecological correlates of species’ roles in highly invaded seed dispersal networks. PNAS, 118(4): 78-82. [doi:10.1073/pnas.2009532118](https://doi.org/10.1073/pnas.2009532118)
+
+**Gleditsch, JM**, Behm, JE, Ellers, J, Jesse, WAM and Helmus, MR (2022) Contemporizing island biogeography theory with anthropogenic drivers of species richness. Global Ecology and Biogeography, 32(2): 233-249. [doi:10.1111/geb.13623](https://doi.org/10.1111/geb.13623)
+
+
+Vizentin-Bugoni, J, Sperry, JH, Kelley, JP, **Gleditsch, JM**, Foster, JT, Drake, DR, Hruska, AM, Wilcox, RC, and Tarwater, CE (2021) Ecological correlates of species’ roles in highly invaded seed dispersal networks. PNAS, 118(4): 78-82. [doi:10.1073/pnas.2009532118](https://doi.org/10.1073/pnas.2009532118)
 
 
 **Gleditsch, JM** and Sperry, JH (2020) Ecomorphological relationships and invasion history of non-native terrestrial bird species on O‘ahu, Hawai‘i suggests ecological fitting during community assembly. Ecology and Evolution, 10:12157–12169. [doi:10.1002/ece3.6843](https://doi.org/10.1002/ece3.6843)
